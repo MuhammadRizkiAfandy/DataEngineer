@@ -1,0 +1,1 @@
+print("Halo, saya Fandy, saya calon data engineer")
